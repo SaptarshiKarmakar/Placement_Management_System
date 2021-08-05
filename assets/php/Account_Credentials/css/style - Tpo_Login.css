@@ -1,0 +1,21 @@
+.sec-sign-up{
+    height: 300px;
+    width: 300px;
+   
+    margin-left:40%;
+    margin-top: 10%;
+}
+.form-signup{
+    margin-left: 0%;
+}
+.signup-button{
+    margin-left: 12%;
+}
+.form-last-div{
+    padding-top: 7%;
+}
+
+.welcome-div{
+    margin-left: 12%;
+    padding-bottom: 5%;
+}
